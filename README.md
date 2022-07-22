@@ -18,8 +18,7 @@
 - Takes a lot of memory, need to render collection view twice 😥.
 
 
-
 > Kindly download the repo & Keep 👀 on:
 > ZLayout.Swift
 
-> ✉️ : mehul.srivastava@zomato.com, shubham.gupta@zomato.com
+> ✉️ : shubham9032@gmail.com, mehulsrivastava92@gmail.com
